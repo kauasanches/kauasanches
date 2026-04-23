@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Olá, me chamo Kauã Sanches ! 
 ## Bem vindo ao meu perfil GitHub 👋
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 
 ## Tecnologias:
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<i class="devicon-apache-plain"></i>
