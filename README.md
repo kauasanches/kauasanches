@@ -1,29 +1,50 @@
-<!-- ## Hi there 👋 -->
+# Olá, eu sou o [Seu Nome]! 👋
 
-<!--
-**kauasanches/kauasanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor(a) [Sua Stack: Ex: Fullstack / Frontend / Backend]
+Estou sempre em busca de aprender novas tecnologias e resolver problemas complexos através do código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+### 🛠️ Tecnologias & Ferramentas
 
-# Olá, me chamo Kauã Sanches ! 
-## Bem vindo ao meu perfil GitHub 👋
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **DevOps/Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
-- 🧑‍🎓 Sou um estudante de ensino médio com técnico em Análise e Desenvolvimento de Sistemas.
-- 🧑‍💻 Hoje estou estudando um pouco de Front-end e Back-end, na prática fazendo um sistema de Hotel.
+---
 
-## Tecnologias:
+### 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&langs_count=7&theme=dracula" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+---
+
+### 🔭 O que estou fazendo no momento?
+
+- 🔭 Atualmente trabalhando em **[Nome do Projeto]**
+- 🌱 Aprendendo mais sobre **[Tecnologia que está estudando]**
+- 💬 Pergunte-me sobre **[Assunto que você domina]**
+- 📫 Como me encontrar: **[Seu E-mail ou Link]**
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="left">
+<a href="[LINK_DO_SEU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="[LINK_DO_SEU_INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="[LINK_DO_SEU_TWITTER/X]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="mailto:[SEU_EMAIL]" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Frase de efeito ou citação favorita aqui."</i>
+</p>
