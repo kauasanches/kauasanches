@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **kauasanches/kauasanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá, me chamo Kauã Sanches ! 
+## Bem vindo ao meu perfil GitHub 👋
+
+- 🧑‍🎓 Sou um estudante de ensino médio com técnico em Análise e Desenvolvimento de Sistemas.
+- 🧑‍💻 Hoje estou estudando um pouco de Front-end e Back-end, na prática fazendo um sistema de Hotel.
+
+## Tecnologias:
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
