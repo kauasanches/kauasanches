@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ## Tecnologias:
 
-<i class="devicon-apache-plain"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
