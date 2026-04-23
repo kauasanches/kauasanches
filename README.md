@@ -27,20 +27,18 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas complex
 
 ### 🔭 O que estou fazendo no momento?
 
-- 🔭 Atualmente trabalhando em **[Nome do Projeto]**
-- 🌱 Aprendendo mais sobre **[Tecnologia que está estudando]**
-- 💬 Pergunte-me sobre **[Assunto que você domina]**
-- 📫 Como me encontrar: **[Seu E-mail ou Link]**
+- 🔭 Atualmente trabalhando em **Um Sistema de Hotel**
+- 🌱 Aprendendo mais sobre **Python**
+- 📫 Como me encontrar: **kaua.sanches@escola.pr.gov.br**
 
 ---
 
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-<a href="[LINK_DO_SEU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="[LINK_DO_SEU_INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="[LINK_DO_SEU_TWITTER/X]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="mailto:[SEU_EMAIL]" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30" /></a>
+<!-- <a href="[LINK_DO_SEU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />LinkedIn</a> -->
+<a href="kau.a_0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />Instagram</a>
+<a href="mailto:kaua.sanches@escola.pr.gov.br" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30" />Email</a>
 </p>
 
 ---
