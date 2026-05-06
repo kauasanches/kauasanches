@@ -37,12 +37,12 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas atravé
 
 <p align="left">
 <!-- <a href="[LINK_DO_SEU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />LinkedIn</a> -->
-<a href="kau.a_0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />Instagram</a>
-<a href="mailto:kaua.sanches@escola.pr.gov.br" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30" />Email</a>
+<a href="kau.a_0201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:kaua.sanches@escola.pr.gov.br" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Frase de efeito ou citação favorita aqui."</i>
+  <i>"O Senhor é o meu pastor, e nada me faltará!"</i>
 </p>
